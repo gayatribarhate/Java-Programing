@@ -1,2 +1,4 @@
 # Java-Programing
-loops
+For loop 
+While loop
+do while loop
